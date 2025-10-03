@@ -18,6 +18,8 @@ main:
     weight: 13
   - name: Experience
     url: experience/
+  - name: People
+    url: people/
     weight: 20
   - name: Projects
     url: projects/
